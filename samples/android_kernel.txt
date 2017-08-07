@@ -1,0 +1,1258 @@
+01-01 00:40:45.918  2955  2955 I kernel  : Start to log kernel message
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.029679] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.029683] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.029687] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.059479] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.069103] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.069107] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.069111] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.098839] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.108463] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.108467] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.108470] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.138198] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.147822] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.147825] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.147829] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.177557] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.187180] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.187183] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.187186] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.216921] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.226546] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.226549] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.226552] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.256279] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.265904] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.265907] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.265911] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.300269] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.309630] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.309635] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.309637] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.339628] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.348991] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.348994] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.348998] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.378987] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.388350] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.388354] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.388357] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.418351] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.427713] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.427717] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.427720] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.457711] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.467075] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.467079] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.467082] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.497072] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.506433] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.506437] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.506440] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.536432] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.545793] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.545798] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.545801] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.580769] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.590830] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.590834] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.590837] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.620135] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.630192] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.630196] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.630199] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.669543] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.679168] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.679171] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.679175] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.708903] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.718527] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.718531] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.718534] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.748264] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.757888] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.757891] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.757895] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.787625] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.797251] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.797255] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.797258] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.826989] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.836596] console [ttyS0] enabled
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.836613] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.836617] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.836620] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.855038] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.860488] 4806c000.serial: ttyS1 at MMIO 0x4806c000 (irq = 298, base_baud = 3000000) is a 8250
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.869352] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.873806] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.879528] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.879686] 48020000.serial: ttyS2 at MMIO 0x48020000 (irq = 299, base_baud = 3000000) is a 8250
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.893597] 48066000.serial: ttyS5 at MMIO 0x48066000 (irq = 300, base_baud = 3000000) is a 8250
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.903071] 48424000.serial: ttyS9 at MMIO 0x48424000 (irq = 301, base_baud = 3000000) is a 8250
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.912173] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.917316] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.921771] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.921906] 3000000.serial: ttyS3 at MMIO 0x3000000 (irq = 207, base_baud = 921600) is a TI TL16C75X
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.936674] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.941502] 7000000.serial: ttyS4 at MMIO 0x7000000 (irq = 208, base_baud = 921600) is a TI TL16C75X
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.951674] [drm] Initialized drm 1.1.0 20060810
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.961358] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.966509] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.970920] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.976630] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.984479] brd: module loaded
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    2.992007] loop: module loaded
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    2.996866] mtdoops: mtd device (mtddev=name/number) must be supplied
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.003611] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.008784] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.013429] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.019149] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.024098] m25p80 spi32766.0: s25fl129p1 (16384 Kbytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.029474] 7 ofpart partitions found on MTD device spi32766.0
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.035363] Creating 7 MTD partitions on "spi32766.0":
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.040528] 0x000000000000-0x000000080000 : "QSPI.SPL"
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.046172] 0x000000080000-0x000000100000 : "QSPI.u-boot"
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.052150] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.057299] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.061701] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.067418] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.072088] 0x000000fd0000-0x000000fe0000 : "QSPI.denso-primary"
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.078545] 0x000000fe0000-0x000000ff0000 : "QSPI.denso-secondary"
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.085200] 0x000000ff0000-0x000001000000 : "QSPI.denso-readonly"
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.091583] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.096755] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.101178] 0x000000fc0000-0x000000fd0000 : "QSPI.denso-bootflags"
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.101205] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.101210] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <5>[    3.118129] 0x000000000000-0x000000010000 : "QSPI.denso-otp"
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.124086] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.129473] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.134002] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.139770] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.146738] input: gpio_keys_polled as /devices/gpio_keys_polled/input/input1
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.155011] i2c-core: driver [rtc-ds1307] using legacy suspend method
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.161509] i2c-core: driver [rtc-ds1307] using legacy resume method
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.168134] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.173370] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.177747] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.183478] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.188154] omap_rtc 48838000.rtcss: rtc core: registered 48838000.rtcss as rtc0
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.195651] 48838000.rtcss: already running
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.200292] i2c /dev entries driver
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.204352] adv7180: +adv7180_probe()
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.208195] adv7180 0-0021: Manual Detection (MD) chip @ 0x21 (OMAP I2C adapter)
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.216139] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.221441] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.225817] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.231573] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.236230] adv7180 0-0021: __adv7180_status 
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.241951] adv7180 0-0021: adv7180_get_video_std: ADV7180_STATUS1_REG  STATUS1_IN_LOCK=0 ret=0x6a 
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.251404] adv7180 0-0021: adv7180_get_video_std: (ret & ADV7180_STATUS1_AUTOD_MASK) = 0x60 
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.259988] adv7180 0-0021: Camera sensor driver registered
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.265618] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.270792] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.275195] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.275213] GPIO 496 BIT0 was exported
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.284683] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.289340] GPIO 497 BIT1 was exported
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.293808] vpe 489d0000.vpe: loading firmware vpdma-1b8.bin
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.300410] Driver for 1-wire Dallas network protocol.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.306477] coproc iva_coproc: probe
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.310178] Adding alias for supply vdd,iva_coproc -> vdd,4a0025cc.voltdm
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.317180] Adding alias for supply vbb,iva_coproc -> vbb,4a0025cc.voltdm
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.324032] vpe 489d0000.vpe: Device registered as /dev/video0
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.329918] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.335309] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.339687] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.345396] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.350720] coproc iva_coproc: coproc_probe result=0
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.355766] coproc dsp_coproc: probe
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.359424] Adding alias for supply vdd,dsp_coproc -> vdd,4a0025e0.voltdm
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.366272] Adding alias for supply vbb,dsp_coproc -> vbb,4a0025e0.voltdm
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.373362] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.378793] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.383184] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.388867] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.394139] coproc dsp_coproc: coproc_probe result=0
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.402571] omap_wdt: OMAP Watchdog Timer Rev 0x01: initial timeout 60 sec
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.409929] device-mapper: ioctl: 4.27.0-ioctl (2013-10-30) initialised: dm-devel@redhat.com
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.419415] !!!!!!!!!!!!!!!!!!!!!omap_hsmmc_probe called!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.426890] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.432231] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.436630] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.442353] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.461326] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.466469] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.470845] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.476540] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.481243] exiting omap_hsmmc_probe successfully!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.487952] !!!!!!!!!!!!!!!!!!!!!omap_hsmmc_probe called!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.495484] omap_hsmmc 480b4000.mmc: unable to get vmmc regulator -517
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.502169] platform 480b4000.mmc: Driver omap_hsmmc requests probe deferral
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.509419] !!!!!!!!!!!!!!!!!!!!!omap_hsmmc_probe called!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.509423] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.521701] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.526112] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.531857] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.551352] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.556494] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.560870] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.566568] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.591331] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.596467] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.600843] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.606553] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.631313] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.636447] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.640824] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.646605] exiting omap_hsmmc_probe successfully!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.653207] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.658253] omap-aes 4b500000.aes: OMAP AES hw accel rev: 3.3
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.664579] omap-aes 4b700000.aes: OMAP AES hw accel rev: 3.3
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.670927] omap-sham 4b101000.sham: hw accel on OMAP rev 4.3
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.677090] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.682285] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.686700] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.692428] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.697358] hidraw: raw HID events driver (C) Jiri Kosina
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.710021] ion_chunk_heap_create: base 3674210304 size 4194304 align 16384
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.717370] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.717948] mmc1: queuing unknown CIS tuple 0x80 (2 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.720648] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.723048] mmc1: queuing unknown CIS tuple 0x80 (6 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.732949] mmc1: queuing unknown CIS tuple 0x80 (31 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.735648] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.743748] mmc1: queuing unknown CIS tuple 0x80 (25 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.751848] mmc1: queuing unknown CIS tuple 0x80 (25 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.761345] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.765759] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.771476] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.771481] ashmem: initialized
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.779842] mmc1: queuing unknown CIS tuple 0x91 (3 bytes)
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.785462] mmc1: new ultra high speed SDR50 SDIO card at address 0001
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.794081]  remoteproc0: 58820000.ipu is available
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.798982]  remoteproc0: Note: remoteproc is still under development and considered experimental.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.807999]  remoteproc0: THE BINARY FORMAT IS NOT YET FINALIZED, and backward compatibility isn't yet guaranteed.
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.818514]  remoteproc0: Direct firmware load failed with error -2
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.824845] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.824920]  remoteproc1: 55020000.ipu is available
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.824923]  remoteproc1: Note: remoteproc is still under development and considered experimental.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.824926]  remoteproc1: THE BINARY FORMAT IS NOT YET FINALIZED, and backward compatibility isn't yet guaranteed.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.825061]  remoteproc2: 40800000.dsp is available
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.825064]  remoteproc2: Note: remoteproc is still under development and considered experimental.
+01-01 00:40:45.918  2955  2955 I kernel  : <6>[    3.825066]  remoteproc2: THE BINARY FORMAT IS NOT YET FINALIZED, and backward compatibility isn't yet guaranteed.
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.825323]  remoteproc0: Falling back to user helper
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.825528]  remoteproc1: Direct firmware load failed with error -2
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.825530]  remoteproc1: Falling back to user helper
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.894905]  remoteproc2: Direct firmware load failed with error -2
+01-01 00:40:45.918  2955  2955 I kernel  : <4>[    3.901275]  remoteproc2: Falling back to user helper
+01-01 00:40:45.918  2955  2955 I kernel  : <3>[    3.906382] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.910794] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    3.916630] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.921945] smi130 0-0068: function entrance
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.926407] smi130 0-0068: read chip id result: 0xf
+01-01 00:40:45.919  2955  2955 I kernel  : <5>[    3.931339] smi130 0-0068: Bosch Sensortec Device smi130 detected
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.941490] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    3.946734] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.951124] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    3.956807] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <5>[    3.969696] smi130 0-0068: IIO device sensor smi130 probed successfully
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.976502] mlb150 version 2.0.1 (built-in) 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.980945] mlb150 4842c000.mlb150: used DBR after ctrl: 192
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.986661] mlb150 4842c000.mlb150: used DBR after async: 3264
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    3.992579] mlb150 4842c000.mlb150: used DBR after sync0: 3776 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.001274] mlb150 4842c000.mlb150: used DBR after sync1: 4288 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.009948] mlb150 4842c000.mlb150: used DBR after sync2: 4800 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.018665] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.023675] mlb150 4842c000.mlb150: used DBR after sync3: 5312 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.032372] mlb150 4842c000.mlb150: used DBR after sync4: 5824 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.041060] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.045436] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.051135] mlb150 4842c000.mlb150: used DBR after sync5: 6336 (512 bytes) (DMA 256, max 8192)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.059785] mlb150 4842c000.mlb150: used DBR after sync6: 8640 (2304 bytes) (DMA 256, max 6912)
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.061036] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.073163] mlb150 4842c000.mlb150: used DBR after isoc_sync: 8896
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.079370] mlb150 4842c000.mlb150: DBR: remaining: 7488, per isoc: 7488
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.086136] mlb150 4842c000.mlb150: minors: ctrl0 0, opt30 1, async0 2, isoc0 10, sync0 3
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.094539] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.099726] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.104182] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.106599] mlb150 4842c000.mlb150: adjusted mlb register base: 0xdfa40400
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.116809] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.128774] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.136098] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.144403] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.149558] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.153971] u32 classifier
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.153985] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.153989] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.167067]     Actions configured
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.170485] Netfilter messages via NETLINK v0.30.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.175281] nf_conntrack version 0.5.0 (16384 buckets, 65536 max)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.181595] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.181703] ctnetlink v0.93: registering with nfnetlink.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.192114] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.192353] xt_time: kernel timezone is -0000
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.192592] ip_tables: (C) 2000-2006 Netfilter Core Team
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.192738] arp_tables: (C) 2002 David S. Miller
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.192774] TCP: cubic registered
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.192777] Initializing XFRM netlink socket
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.218490] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.224211] NET: Registered protocol family 10
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.224219] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.233974] mip6: Mobile IPv6
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.236974] ip6_tables: (C) 2000-2006 Netfilter Core Team
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.242628] sit: IPv6 over IPv4 tunneling driver
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.247288] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248147] NET: Registered protocol family 17
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248166] NET: Registered protocol family 15
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248169] 8021q: 802.1Q VLAN Support v1.8
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248191] NET: Registered protocol family 41
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248970] Adding alias for supply vdd,cpu0 -> vdd,4a003b20.voltdm
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.248973] Adding alias for supply vbb,cpu0 -> vbb,4a003b20.voltdm
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.282748] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.283541] Power Management for TI OMAP4+ devices.
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.283728] Exporting gpios ###
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.283939] GPIO 498 GPS power was exported
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.284142] GPIO 499 was exported
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.284145] ThumbEE CPU extension supported.
+01-01 00:40:45.919  2955  2955 I kernel  : <5>[    4.284159] Registering SWP/SWPB emulation handler
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.311823] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.317524] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.322758] vmmcwl_fixed: disabling
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.326264] evm_3v3_sd: disabling
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.329592] regulator-dummy: disabling
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.333733] dmm 4e000000.dmm: workaround for errata i878 in use
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.341343] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.346553] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.350959] dmm 4e000000.dmm: initialized all PAT entries
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.356411] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.362191] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.369781] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.376462] [drm] No driver support for vblank timestamp query.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.382730] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.387865] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.392310] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.397993] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.408175]  regm =  777, regn = 13
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.408175] 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.419911] [drm] Enabling DMM ywrap scrolling
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.424666] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.429982] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.429986] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.429990] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.441327] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.441476] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.441480] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.441483] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.446464]  regm =  777, regn = 13
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.446464] 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.461314] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.461462] hralvds 0-0055: PCLK not present.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.461466] hralvds 0-0055: hralvds_setup_link ends on error
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.461469] hralvds 0-0055: setup_link() failed.
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.462901]  regm =  777, regn = 13
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.462901] 
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.465156] omapdss DPI: Could not find exact pixel clock. Requested 82441152 Hz, got 82440289 Hz
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.468495] hralvds 0-0055: set HDCP EN, rc = 1
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.468499] hralvds 0-0055: HDCP ISR INT DETECT
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.468773] hralvds 0-0055: Bad IRQ detected (#3), STS = 28, ISR = 00
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.469255] hralvds 0-0055: HDCP ISR IS KSV RDY
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.469635] hralvds 0-0055: HDCP ISR IS AUTH PASS
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.469919] hralvds 0-0055: Bad IRQ detected (#4), STS = 29, ISR = 00
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.481332] hralvds 0-0055: Serializer i2c addr 0xc.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.481492] hralvds 0-0055: PCLK detection done.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.481495] hralvds 0-0055: FPDLink detected.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.481655] hralvds 0-0055: Deserializer found at phys address 0x2c.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.481659] hralvds 0-0055: Serializer status dump:
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482433] i2c ser 0-000c: SER925_CONFIG0 = 0x8b
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482437] i2c ser 0-000c: SER925_CONFIG1 = 0x8a
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482441] i2c ser 0-000c: SER925_DATA_CTL = 0x00
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482445] i2c ser 0-000c: SER925_MODE_STS = 0x10
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482448] i2c ser 0-000c: SER925_GEN_STS = 0x05
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.482670] hralvds 0-0055: Deserializer status dump:
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.483711] i2c des 0-003b: DES928_CONFIG0 = 0x00
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.483715] i2c des 0-003b: DES928_CONFIG1 = 0xf0
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.483718] i2c des 0-003b: DES928_DATA_CTL = 0x90
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.483721] i2c des 0-003b: DES928_RX_STS = 0x10
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.483725] i2c des 0-003b: DES928_GEN_STS = 0x03
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.484577] hralvds 0-0055: Poll init try 0
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.484861] omapdss DPI: ++++++++ENABLE CDCE913++++++++
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.484869] hralvds 0-0055: hralvds_power_on sets power_state: POWER_STATE_OFF -> POWER_STATE_POWERING_ON_1
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.484874] hralvds 0-0055: Powering the panel on.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.529974] Console: switching to colour frame buffer device 240x45
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.751636] omapdrm omapdrm.0: fb0: omapdrm frame buffer device
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.757592] omapdrm omapdrm.0: registered panic notifier
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.762955] [drm] Initialized omapdrm 1.0.0 20110917 on minor 0
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.770433] evm_3v3_sw: 3300 mV 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.773771] evm_3v3_sw: supplied by sysen1
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.778376] aic_dvdd: 1800 mV 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.781500] aic_dvdd: supplied by evm_3v3_sw
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.786124] vtt_fixed: 1350 mV 
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.789311] vtt_fixed: supplied by sysen2
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.793894] !!!!!!!!!!!!!!!!!!!!!omap_hsmmc_probe called!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.841082] exiting omap_hsmmc_probe successfully!!!!!!!!!!!!!!!!!!!!!
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.847920] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.919  2955  2955 I kernel  : <4>[    4.855301] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.862445] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.871132] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.879748] public_nor_is_visible: length (32)
+01-01 00:40:45.919  2955  2955 I kernel  : <3>[    4.884326] otg_wakelock_init: No USB transceiver found
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.889948] omap_rtc 48838000.rtcss: setting system clock to 2000-01-01 00:00:00 UTC (946684800)
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.910275] ALSA device list:
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.913344]   No soundcards found.
+01-01 00:40:45.919  2955  2955 I kernel  : <6>[    4.917524] Freeing unused kernel memory: 316K (80858000 - 808a7000)
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.933206] SELinux: 2048 avtab hash slots, 6291 rules.
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.935873] SELinux: 2048 avtab hash slots, 6291 rules.
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.935891] SELinux:  1 users, 2 roles, 465 types, 0 bools, 1 sens, 1024 cats
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.935904] SELinux:  86 classes, 6291 rules
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.936992] SELinux:  Completing initialization.
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.936999] SELinux:  Setting up existing superblocks.
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937018] SELinux: initialized (dev rootfs, type rootfs), uses genfs_contexts
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937097] SELinux: initialized (dev bdev, type bdev), not configured for labeling
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937112] SELinux: initialized (dev proc, type proc), uses genfs_contexts
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937136] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937161] SELinux: initialized (dev devtmpfs, type devtmpfs), uses transition SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.937561] SELinux: initialized (dev debugfs, type debugfs), uses genfs_contexts
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945594] SELinux: initialized (dev sockfs, type sockfs), uses task SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945613] SELinux: initialized (dev pipefs, type pipefs), uses task SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945625] SELinux: initialized (dev anon_inodefs, type anon_inodefs), not configured for labeling
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945637] SELinux: initialized (dev aio, type aio), not configured for labeling
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945651] SELinux: initialized (dev devpts, type devpts), uses transition SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945670] SELinux: initialized (dev mqueue, type mqueue), uses transition SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945689] SELinux: initialized (dev selinuxfs, type selinuxfs), uses genfs_contexts
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945770] SELinux: initialized (dev drm, type drm), not configured for labeling
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945782] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.977  2955  2955 I kernel  : <7>[    4.945817] SELinux: initialized (dev sysfs, type sysfs), uses genfs_contexts
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    4.953846] mmc2: BKOPS_EN bit is not set
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    4.963332] omap_hsmmc 480b4000.mmc: selected tuning value 0x2c max_index 8, max_window 7
+01-01 00:40:45.977  2955  2955 I kernel  : <5>[    4.988102] audit: type=1403 audit(946684800.589:2): policy loaded auid=4294967295 ses=4294967295
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    4.997294] hralvds 0-0055: Deserializer establishment complete.
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.011527] hralvds 0-0055: hralvds_set_handshake data:0x00000003
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.021429] hralvds 0-0055: hralvds_timer_worker sets power_state: POWER_STATE_POWERING_ON_1 -> POWER_STATE_POWERING_ON_1
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.023422] mmc2: new HS200 MMC card at address 0001
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.037494] mmcblk0: mmc2:0001 R1J58E 59.2 GiB 
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.042280] mmcblk0boot0: mmc2:0001 R1J58E partition 1 8.00 MiB
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.048460] mmcblk0boot1: mmc2:0001 R1J58E partition 2 8.00 MiB
+01-01 00:40:45.977  2955  2955 I kernel  : <4>[    5.056437] Alternate GPT is invalid, using primary GPT.
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.061866]  mmcblk0: p1 p2 p3 p4 p5 p6 p7 p8 p9 p10 p11 p12 p13 p14 p15 p16 p17 p18 p19 p20
+01-01 00:40:45.977  2955  2955 I kernel  : <11>[    5.073425] init: service 'console' requires console
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.076791]  mmcblk0boot1: unknown partition table
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.078054]  mmcblk0boot0: unknown partition table
+01-01 00:40:45.977  2955  2955 I kernel  : <4>[    5.078688] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.977  2955  2955 I kernel  : <4>[    5.078748] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.977  2955  2955 I kernel  : <3>[    5.078804] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.977  2955  2955 I kernel  : <6>[    5.078844] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.366008] init: /dev/hw_random not found
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.367265] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.367617] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.369744] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.369963] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.371542] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.372611] SELinux: initialized (dev pstore, type pstore), uses genfs_contexts
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.381334] mlbmep version 0.0.0 C374B1D536439CFACD6A569
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.381370] mlbmep: default mtu 1500
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.382604] mlbmep: mlb150 minor 2 (MEP/async)
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.382613] mlbmep: mlb150 minor 0 (ctrl)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.384118] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.384368] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.384896] init: /dev/hw_random not found
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.392062] fs_mgr: Mounting system1
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.403392] ControlBoxStateMachineDaemon : ControlBox()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.403440] ControlBoxStateMachineDaemon : StateMachine()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.403561] ControlBoxStateMachineDaemon : Booting from EMMC...
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.407860] ControlBoxStateMachineDaemon : skip_ff read from utility : 0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.407881] ControlBoxStateMachineDaemon : vanilla_state read from utility : 0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.407896] ControlBoxStateMachineDaemon : enterFFPrecheck() with vanilla 0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.407909] ControlBoxStateMachineDaemon : resetFactoryFlashing()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.407923] ControlBoxStateMachineDaemon : vanilla_state : 0
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.409524] fs_mgr: Finished adding system index
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.409987] ControlBoxStateMachineDaemon : State changing to: LowPowerMode
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.410487] mlb150: MLB_SET_FPS ctrl: fs 2048, MLBC0: 0x0002802d (no lock)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.410718] mlb150: MLB_SET_FPS async: fs 2048, MLBC0: 0x000280ad ( lock)
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.416187] ControlBoxStateMachineDaemon : ControlBox::enterLowPowerMode()
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.416804] bio: create slab <bio-1> at 1
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.420272] ControlBoxStateMachineDaemon : MOST_ALL_ID
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.420291] ControlBoxStateMachineDaemon : mnsAvailable: false
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.420305] ControlBoxStateMachineDaemon : netOn: false
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.420317] ControlBoxStateMachineDaemon : stableLock: false
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.420332] ControlBoxStateMachineDaemon : mpr: 238
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.423418] mlbmep: mep0: ether addr set to INIC MAC 4a:6f:65:00:02:02
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.427987]  remoteproc0: powering up 58820000.ipu
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.428001]  remoteproc0: Booting fw image dra7-ipu1-fw.xem4, size 1435284
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.429042]  remoteproc0: remote processor 58820000.ipu is now up
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.429324] virtio_rpmsg_bus virtio0: rpmsg host is online
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.429346]  remoteproc0: registered virtio0 (type 7)
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.429720] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.429779] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.429833] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.429875] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.431988] virtio_rpmsg_bus virtio0: creating channel rpmsg-proto addr 0x3d
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.433229] EXT4-fs (dm-0): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.433251] SELinux: initialized (dev dm-0, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.433355] fs_mgr: __mount(source=/dev/block/dm-0,target=/system,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.433422] fs_mgr: mount_with_alternatives(): skipping fstab dup mountpoint=/system rec[1].fs_type=ext4 already mounted as ext4.
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.433974] virtio_rpmsg_bus virtio0: msg received with no recipient
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.434389] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.434450] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.434523] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.434568] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.439297] EXT4-fs (mmcblk0p6): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.439312] SELinux: initialized (dev mmcblk0p6, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.439342] fs_mgr: __mount(source=/dev/block/platform/44000000.ocp/by-name/efs,target=/factory,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.440022] EXT4-fs (mmcblk0p13): Ignoring removed nomblk_io_submit option
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.443646] ControlBoxStateMachineDaemon : MOST_NETON_EVENT_ID: NetOn
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.443733] ControlBoxStateMachineDaemon : startMPMResetRegisterReadThread
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.443816] ControlBoxStateMachineDaemon : sendMPMResetRegisterReadThread
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.443832] ControlBoxStateMachineDaemon : sendMPMResetRegisterRead
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.445886] EXT4-fs (mmcblk0p13): mounted filesystem with ordered data mode. Opts: nomblk_io_submit,errors=remount-ro
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.445903] SELinux: initialized (dev mmcblk0p13, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.445950] fs_mgr: check_fs(): mount(/dev/block/platform/44000000.ocp/by-name/cache,/cache,ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.462820] ControlBoxStateMachineDaemon : void CEntryStateApplication::handleEntryStateChange(acs::generated::shadow::SystemSynchronization::CEntryState::TEntryState) EntryState:4
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.498034] fs_mgr: Running /system/bin/e2fsck on /dev/block/platform/44000000.ocp/by-name/cache
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.542419] hralvds 0-0055: hralvds_power_state_worker sets power_state: POWER_STATE_POWERING_ON_1 -> POWER_STATE_POWERING_ON_1A
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.542435] hralvds 0-0055: Send RESET0 to deserializer.
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.543289] hralvds 0-0055: set HDCP EN, rc = 1
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.543300] hralvds 0-0055: HDCP ISR INT DETECT
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.543703] hralvds 0-0055: HDCP ISR IS AUTH FAIL
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.544096] hralvds 0-0055: HDCP ISR IS KSV RDY
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.544657] hralvds 0-0055: HDCP ISR IS AUTH PASS
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.545057] hralvds 0-0055: Bad IRQ detected (#5), STS = 69, ISR = 00
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.587609]  remoteproc1: powering up 55020000.ipu
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.587625]  remoteproc1: Booting fw image dra7-ipu2-fw.xem4, size 3472676
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.587694] omap-iommu 55082000.mmu: 55082000.mmu: version 2.1
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.591086] hralvds 0-0055: Fast initialization. Sending only video and touch sensitivity commands.
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.592162] hralvds 0-0055: hralvds_power_state_worker sets power_state: POWER_STATE_POWERING_ON_1A -> POWER_STATE_ON
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.652596]  remoteproc1: remote processor 55020000.ipu is now up
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.655221] virtio_rpmsg_bus virtio1: rpmsg host is online
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.655252]  remoteproc1: registered virtio1 (type 7)
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.656051] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.656111] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.656299] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.656345] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.661100] virtio_rpmsg_bus virtio1: creating channel rpmsg-rpc addr 0x3b
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.661574] rpmsg_rpc rpmsg1: probing service rpmsg-dce with src 1024 dst 59
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.666965] rpmsg_rpc rpmsg1: published functions = 8
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.667206] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.667263] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.667315] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.667394] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.695809] ControlBoxStateMachineDaemon : checkLogdStarted()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.700907] ControlBoxStateMachineDaemon : listenVanillaState()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.700927] ControlBoxStateMachineDaemon : listenVanillaState(): vanilla state is false, will not listen
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.702280] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.702341] e2fsck: /dev/block/platform/44000000.ocp/by-name/cache: clean, 11/16384 files, 2090/65536 blocks
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.702774] ControlBoxStateMachineDaemon : listenSkipFactoryFlashing()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.702791] ControlBoxStateMachineDaemon : listenSkipFactoryFlashing(): skip FF is false, will not listen
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.716620] EXT4-fs (mmcblk0p13): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.716645] SELinux: initialized (dev mmcblk0p13, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.716707] fs_mgr: __mount(source=/dev/block/platform/44000000.ocp/by-name/cache,target=/cache,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.718556] EXT4-fs (mmcblk0p20): Ignoring removed nomblk_io_submit option
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.729612] EXT4-fs (mmcblk0p20): mounted filesystem with ordered data mode. Opts: nomblk_io_submit,errors=remount-ro
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.729633] SELinux: initialized (dev mmcblk0p20, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.729689] fs_mgr: check_fs(): mount(/dev/block/platform/44000000.ocp/by-name/userdata,/data,ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.756161]  remoteproc2: powering up 40800000.dsp
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.756175]  remoteproc2: Booting fw image dra7-dsp1-fw.xe66, size 8721924
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.762701] omap_hwmod: mmu0_dsp1: _wait_target_disable failed
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.762733] omap-iommu 40d01000.mmu: 40d01000.mmu: version 3.0
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.762805] omap-iommu 40d02000.mmu: 40d02000.mmu: version 3.0
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.772683] fs_mgr: Running /system/bin/e2fsck on /dev/block/platform/44000000.ocp/by-name/userdata
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.800307]  remoteproc2: remote processor 40800000.dsp is now up
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.800686] virtio_rpmsg_bus virtio2: rpmsg host is online
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.800714]  remoteproc2: registered virtio2 (type 7)
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.801070] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.801130] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.801200] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.801243] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.802515] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.802560] e2fsck: /dev/block/platform/44000000.ocp/by-name/userdata: clean, 2779/470496 files, 131656/1880476 blocks
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.805095] virtio_rpmsg_bus virtio2: creating channel rpmsg-proto addr 0x3d
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.805894] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.805949] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    5.806001] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.806039] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.807535] EXT4-fs (mmcblk0p20): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.807555] SELinux: initialized (dev mmcblk0p20, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.807599] fs_mgr: __mount(source=/dev/block/platform/44000000.ocp/by-name/userdata,target=/data,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.807674] fs_mgr: check_fs(): mount(/dev/block/platform/44000000.ocp/by-name/persistdata,/persistdata,ext4)=-1
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.807697] fs_mgr: Running /system/bin/e2fsck on /dev/block/platform/44000000.ocp/by-name/persistdata
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.877514] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.877556] e2fsck: /dev/block/platform/44000000.ocp/by-name/persistdata: clean, 35/3145728 files, 243565/12582912 blocks
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.883499] EXT4-fs (mmcblk0p2): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.883518] SELinux: initialized (dev mmcblk0p2, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.883572] fs_mgr: __mount(source=/dev/block/platform/44000000.ocp/by-name/persistdata,target=/persistdata,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.883645] fs_mgr: check_fs(): mount(/dev/block/platform/44000000.ocp/by-name/logging,/logging,ext4)=-1
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.883666] fs_mgr: Running /system/bin/e2fsck on /dev/block/platform/44000000.ocp/by-name/logging
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.891572] hralvds 0-0055: hralvds_do_supervisor supervisor OK
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.897565] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.897602] e2fsck: /dev/block/platform/44000000.ocp/by-name/logging: clean, 49/19200 files, 18954/76800 blocks
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.902635] EXT4-fs (mmcblk0p17): mounted filesystem with ordered data mode. Opts: (null)
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    5.902653] SELinux: initialized (dev mmcblk0p17, type ext4), uses xattr
+01-01 00:40:45.978  2955  2955 I kernel  : <14>[    5.902704] fs_mgr: __mount(source=/dev/block/platform/44000000.ocp/by-name/logging,target=/logging,type=ext4)=0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.905903] ControlBoxStateMachineDaemon : State changing to: OpeningAnimation
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.905993] ControlBoxStateMachineDaemon : ControlBox::enterOpeningAnimation()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.906661] ControlBoxStateMachineDaemon : getAnimExit()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.906688] ControlBoxStateMachineDaemon : getAnimExit : wait for core services to be ready
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.906726] ControlBoxStateMachineDaemon : waitLumRestoreConditions()
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    5.908476] ControlBoxStateMachineDaemon : startAnim()
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.931212] CMEMK module: built on Jul 21 2017 at 09:25:38
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.931223]   Reference Linux version 3.14.51
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    5.931539] cmem_init: allowOverlap parameter has been deprecated, ignoring...
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.933380] allocated heap buffer 0x95400000 of size 0x298000
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.933418] cmemk initialized
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.960120] hralvds 0-0055: set_hralvds_power 14 20 00 08 a2 07 b3 00 00 68 
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.979627] usbcore: registered new interface driver usbfs
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.980058] usbcore: registered new interface driver hub
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.980826] usbcore: registered new device driver usb
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    5.995540] usbcore: registered new interface driver usbserial
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.029990] UtilityDaemon : Utility Daemon is initializing
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.030374] binder: 1814:1814 transaction failed 29189, size 0-0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.032350] UtilityDaemon : getBootCompleted
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.037482] usbcore: registered new interface driver usbhid
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.037491] usbhid: USB HID core driver
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.066977] init: Warning!  Service touchbridge needs a SELinux domain defined; please fix!
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.080418] binder: 1833:1833 transaction failed 29189, size 0-0
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.093176] usbcore: registered new interface driver cdc_wdm
+01-01 00:40:45.978  2955  2955 I kernel  : <5>[    6.105183] random: nonblocking pool is initialized
+01-01 00:40:45.978  2955  2955 I kernel  : <7>[    6.119050] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.131138] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.164934] ehci-pci: EHCI PCI platform driver
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.174827] ehci-omap: OMAP-EHCI Host Controller driver
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.196837] SMC: SecureCRC=0x35E96B05
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.197548] SMC: Error while loading the PA [0x44]
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.231774] init: untracked pid 1863 exited with status 0
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.235773] init: untracked pid 1872 exited with status 2
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.236950] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.237013] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.237071] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.237116] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.293415] PVR_K: UM DDK-(2917986) and KM DDK-(2917986) match. [ OK ]
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.294779] input: WindRiver_TouchBridge as /devices/virtual/input/input2
+01-01 00:40:45.978  2955  2955 I kernel  : <38>[    6.306199] logd.auditd: start
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.377820] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.377885] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.377946] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.377990] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.378713] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.378768] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.378815] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.378853] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.379341] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.379391] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.379440] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.379478] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.380225] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.380278] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.380321] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.380358] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <11>[    6.444035] ControlBoxStateMachineDaemon : sendMPMResetRegisterRead
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.498865] usbcore: registered new interface driver uvcvideo
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.498876] USB Video Class driver (1.1.1)
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.601546] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.601616] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.601667] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.601713] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.603109]  regm =  777, regn = 13
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.603109] 
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.616951] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.617013] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.617087] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.617143] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.748737] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.978  2955  2955 I kernel  : <4>[    6.748799] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.748857] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.748905] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.978  2955  2955 I kernel  : <6>[    6.751078] hralvds 0-0055: Gradual change finished.
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.844551] USB2PHY_TERMINATION_CONTROL 0 : 07000024.
+01-01 00:40:45.978  2955  2955 I kernel  : <3>[    6.844569] USB2PHY_TERMINATION_CONTROL 1 : 0000001D.
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    6.844578] USB2PHY_TERMINATION_CONTROL 2 : 0032001D.
+01-01 00:40:45.979  2955  2955 I kernel  : <11>[    7.031604] UtilityDaemon : Utility Daemon is now ready
+01-01 00:40:45.979  2955  2955 I kernel  : <11>[    7.081312] healthd: No charger supplies found
+01-01 00:40:45.979  2955  2955 I kernel  : <12>[    7.081327] healthd: No battery devices found
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    7.424126] dwc3 48890000.usb: otg: primary host xhci-hcd.0.auto registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    7.424140] dwc3 48890000.usb: otg: shared host xhci-hcd.0.auto registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    7.424148] dwc3 48890000.usb: otg: can't start till gadget registered
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    7.424625] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    7.424687] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    7.425720] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    7.425776] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    7.432158] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    7.432217] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    7.432265] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    7.432305] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.979  2955  2955 I kernel  : <7>[    8.086234] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.090768] xhci-hcd xhci-hcd.1.auto: xHCI Host Controller
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095172] xhci-hcd xhci-hcd.1.auto: new USB bus registered, assigned bus number 1
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095720] xhci-hcd xhci-hcd.1.auto: irq 430, io mem 0x488d0000
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095893] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095904] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095912] usb usb1: Product: xHCI Host Controller
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095920] usb usb1: Manufacturer: Linux 3.14.51 xhci-hcd
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.095927] usb usb1: SerialNumber: xhci-hcd.1.auto
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.102833] hub 1-0:1.0: USB hub found
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.102886] hub 1-0:1.0: 1 port detected
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.103720] xhci-hcd xhci-hcd.1.auto: xHCI Host Controller
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.104339] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.104405] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    8.104459] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.104511] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105447] xhci-hcd xhci-hcd.1.auto: new USB bus registered, assigned bus number 2
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105664] usb usb2: New USB device found, idVendor=1d6b, idProduct=0003
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105674] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105682] usb usb2: Product: xHCI Host Controller
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105689] usb usb2: Manufacturer: Linux 3.14.51 xhci-hcd
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.105696] usb usb2: SerialNumber: xhci-hcd.1.auto
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.107600] hub 2-0:1.0: USB hub found
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.107645] hub 2-0:1.0: 1 port detected
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.108933] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.108996] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    8.109049] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.109099] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.164206] usbcore: registered new interface driver usb-storage
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.177713] exFAT: Version 1.2.9
+01-01 00:40:45.979  2955  2955 I kernel  : <7>[    8.189968] SELinux: initialized (dev configfs, type configfs), not configured for labeling
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.273675] usbcore: registered new interface driver snd-usb-audio
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.285203] usbcore: registered new interface driver cp210x
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.285592] usbserial: USB Serial support registered for cp210x
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.300669] most-video version 0.0.0 BCFB1EC26287B9C658CBB01, allocating 1 devices
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.306112] most-video: capture device: video1, DMA device 4842c000.mlb150, minor 10
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.306122] most-video: output device: video2
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.426230] usb 1-1: new high-speed USB device number 2 using xhci-hcd
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.426736] warning: `preloadResource' uses 32-bit capabilities (legacy support in use)
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.561309] usb 1-1: New USB device found, idVendor=0424, idProduct=2514
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.561323] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.586532] hub 1-1:1.0: USB hub found
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.586601] hub 1-1:1.0: 4 ports detected
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.622088] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:45.979  2955  2955 I kernel  : <4>[    8.622163] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[    8.622246] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[    8.622324] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:45.979  2955  2955 I kernel  : <38>[   10.746673] type=1400 audit(946684806.349:3): avc: denied { entrypoint } for pid=2346 comm="init" path="/system/bin/dr_carplay_service" dev="dm-0" ino=257 scontext=u:r:gpsd:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+01-01 00:40:45.979  2955  2955 I kernel  : <12>[   12.153021] healthd: battery none chg=
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473184] lowmemorykiller: lowmem_shrink: convert oom_adj to oom_score_adj:
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473203] lowmemorykiller: oom_adj 0 => oom_score_adj 0
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473211] lowmemorykiller: oom_adj 1 => oom_score_adj 58
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473221] lowmemorykiller: oom_adj 2 => oom_score_adj 117
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473229] lowmemorykiller: oom_adj 3 => oom_score_adj 176
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473236] lowmemorykiller: oom_adj 9 => oom_score_adj 529
+01-01 00:40:45.979  2955  2955 I kernel  : <6>[   12.473244] lowmemorykiller: oom_adj 15 => oom_score_adj 1000
+01-01 00:40:45.979  2955  2955 I kernel  : <12>[   14.796631] avc:  denied  { set } for property=sys.launcher_loaded scontext=u:r:untrusted_app:s0 tcontext=u:object_r:system_prop:s0 tclass=property_service
+01-01 00:40:45.979  2955  2955 I kernel  : <12>[   14.797207] avc:  denied  { set } for property=launcher.started scontext=u:r:untrusted_app:s0 tcontext=u:object_r:default_prop:s0 tclass=property_service
+01-01 00:40:45.979  2955  2955 I kernel  : <38>[   14.800823] type=1400 audit(946687245.009:4): avc: denied { write } for pid=2558 comm="a.tjba.launcher" name="property_service" dev="tmpfs" ino=1434 scontext=u:r:untrusted_app:s0 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=1
+01-01 00:40:45.979  2955  2955 I kernel  : <38>[   14.802156] type=1400 audit(946687245.009:5): avc: denied { connectto } for pid=2558 comm="a.tjba.launcher" path="/dev/socket/property_service" scontext=u:r:untrusted_app:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.623437] show_nor_ascii: data (39540-TJBA-A110) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.623449] show_ascii: data (39540-TJBA-A110) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.626108] show_nor_ascii: data (NORMAL) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.626118] show_ascii: data (NORMAL) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.631402] show_nor_ascii: data (NORMAL) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.631413] show_ascii: data (NORMAL) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <12>[   15.639073] ===> boot completed init: Warning!  Service drplaybacksrv needs a SELinux domain defined; please fix!
+01-01 00:40:45.979  2955  2955 I kernel  : <11>[   15.640564] init: Warning!  Service drrecordersrv needs a SELinux domain defined; please fix!
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.728775] show_nor_ascii: data (NORMAL) length(32)
+01-01 00:40:45.979  2955  2955 I kernel  : <3>[   15.728789] show_ascii: data (NORMAL) length(32)
+01-01 00:40:45.993  2955  2955 I kernel  : <38>[   15.761958] type=1400 audit(946687245.889:6): avc: denied { entrypoint } for pid=2961 comm="init" path="/system/bin/ringsniffer" dev="dm-0" ino=365 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+01-01 00:40:46.121  2955  2955 I kernel  : <6>[   15.891323] tun: Universal TUN/TAP device driver, 1.6
+01-01 00:40:46.121  2955  2955 I kernel  : <6>[   15.891336] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+01-01 00:40:46.181  2955  2955 I kernel  : <3>[   15.953392] show_nor_ascii: data (58000240) length(32)
+01-01 00:40:46.181  2955  2955 I kernel  : <3>[   15.953408] show_ascii: data (58000240) length(32)
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.041157] UtilityDaemon : getBootCompleted: Got boot completed
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.041180] PartSwitch : update_status()
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.044757] PartSwitch : update_status: Update status: 0
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.044780] PartSwitch : update_status: DevUpdate status: -1
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.044795] PartSwitch : update_redbend_fstab()
+01-01 00:40:46.271  2955  2955 I kernel  : <11>[   16.050895] PartSwitch : update_redbend_fstab: /persistdata/redbend_fstab/rb_boot1system1.fstab -> /persistdata/redbend_fstab/rb_recovery.fstab
+01-01 00:40:46.321  2955  2955 I kernel  : <3>[   16.096254] show_nor_ascii: data (DW5468700158) length(32)
+01-01 00:40:46.321  2955  2955 I kernel  : <3>[   16.096268] show_ascii: data (DW5468700158) length(32)
+01-01 00:40:46.331  2955  2955 I kernel  : <4>[   16.109086] omap_hwmod: mmu_ipu2: _wait_target_disable failed
+01-01 00:40:46.421  2955  2955 I kernel  : <7>[   16.191326] udc 48890000.usb: registering UDC driver [g_mfi]
+01-01 00:40:46.501  2955  2955 I kernel  : <4>[   16.241674] [INFO][f_ncm] [INFO][f_ncm] g_mfi gadget: adding config #1 'Digital iPod Out Gadget Config'/7f2087ac
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277883] g_mfi gadget: adding 'giap2'/c9d05140 to config 'Digital iPod Out Gadget Config'/7f2087ac
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277920] g_mfi gadget: adding 'cdc_network'/d9c25000 to config 'Digital iPod Out Gadget Config'/7f2087ac
+01-01 00:40:46.501  2955  2955 I kernel  : <4>[   16.277928] ncm_control_intf.bInterfaceNumber=1
+01-01 00:40:46.501  2955  2955 I kernel  : <4>[   16.277934] ncm_data_intf.bInterfaceNumber=2
+01-01 00:40:46.501  2955  2955 I kernel  : <4>[   16.277956] CDC Network: dual speed IN/ep2in OUT/ep2out NOTIFY/ep3in
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277965] g_mfi gadget: cfg 1/7f2087ac speeds: super high full
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277972] g_mfi gadget:   interface 0 = giap2/c9d05140
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277979] g_mfi gadget:   interface 1 = cdc_network/d9c25000
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.277986] g_mfi gadget:   interface 2 = cdc_network/d9c25000
+01-01 00:40:46.501  2955  2955 I kernel  : <6>[   16.277996] g_mfi gadget: g_mfi ready
+01-01 00:40:46.501  2955  2955 I kernel  : <3>[   16.278008] dwc3 48890000.usb: otg: gadget gadget registered
+01-01 00:40:46.501  2955  2955 I kernel  : <7>[   16.278553] g_mfi gadget: usb_gadget_start
+01-01 00:40:46.511  2955  2955 I kernel  : <7>[   16.284047] g_mfi 48890000.usb: usb_gadget_udc_start
+01-01 00:40:46.511  2955  2955 I kernel  : <7>[   16.287705] g_mfi gadget: usb_gadget_stop
+01-01 00:40:46.511  2955  2955 I kernel  : <7>[   16.287722] g_mfi 48890000.usb: usb_gadget_udc_stop
+01-01 00:40:46.531  2955  2955 I kernel  : <6>[   16.301090] xhci-hcd xhci-hcd.0.auto: xHCI Host Controller
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.314854] xhci-hcd xhci-hcd.0.auto: new USB bus registered, assigned bus number 3
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315360] xhci-hcd xhci-hcd.0.auto: irq 429, io mem 0x48890000
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315652] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315663] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315671] usb usb3: Product: xHCI Host Controller
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315679] usb usb3: Manufacturer: Linux 3.14.51 xhci-hcd
+01-01 00:40:46.541  2955  2955 I kernel  : <6>[   16.315686] usb usb3: SerialNumber: xhci-hcd.0.auto
+01-01 00:40:46.571  2955  2955 I kernel  : <6>[   16.347997] hub 3-0:1.0: USB hub found
+01-01 00:40:46.571  2955  2955 I kernel  : <6>[   16.348086] hub 3-0:1.0: 1 port detected
+01-01 00:40:46.571  2955  2955 I kernel  : <4>[   16.349106] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:46.571  2955  2955 I kernel  : <4>[   16.349296] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:46.571  2955  2955 I kernel  : <3>[   16.349383] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:46.571  2955  2955 I kernel  : <6>[   16.349962] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:46.571  2955  2955 I kernel  : <4>[   16.350462] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:46.571  2955  2955 I kernel  : <4>[   16.350514] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:46.571  2955  2955 I kernel  : <3>[   16.350558] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:46.571  2955  2955 I kernel  : <6>[   16.350598] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:46.571  2955  2955 I kernel  : <6>[   16.350773] xhci-hcd xhci-hcd.0.auto: xHCI Host Controller
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.370290] xhci-hcd xhci-hcd.0.auto: new USB bus registered, assigned bus number 4
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.371061] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.371074] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.371082] usb usb4: Product: xHCI Host Controller
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.371091] usb usb4: Manufacturer: Linux 3.14.51 xhci-hcd
+01-01 00:40:46.591  2955  2955 I kernel  : <6>[   16.371099] usb usb4: SerialNumber: xhci-hcd.0.auto
+01-01 00:40:46.725  2955  2955 I kernel  : <6>[   16.492878] hub 4-0:1.0: USB hub found
+01-01 00:40:46.725  2955  2955 I kernel  : <6>[   16.493037] hub 4-0:1.0: 1 port detected
+01-01 00:40:46.725  2955  2955 I kernel  : <4>[   16.494112] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:46.725  2955  2955 I kernel  : <4>[   16.494179] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:46.725  2955  2955 I kernel  : <3>[   16.494245] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:46.725  2955  2955 I kernel  : <6>[   16.494301] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:46.781  2955  2955 I kernel  : <38>[   16.551756] type=1400 audit(946687246.609:7): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:46.881  2955  2955 I kernel  : <12>[   16.614202] ===> boot completed 
+01-01 00:40:46.881  2955  2955 I kernel  : <6>[   16.655168] PPP generic driver version 2.4.2
+01-01 00:40:47.021  2955  2955 I kernel  : <38>[   16.796700] type=1400 audit(946687246.699:8): avc: denied { write } for pid=2374 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+01-01 00:40:47.091  2955  2955 I kernel  : <6>[   16.868472] usbcore: registered new interface driver cdc_acm
+01-01 00:40:47.091  2955  2955 I kernel  : <6>[   16.868486] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.272280] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.272362] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.272436] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.272490] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.287777] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.287855] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.287935] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.288003] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.367359] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.368311] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.368933] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.368990] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <38>[   17.400614] type=1400 audit(946687247.609:9): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.411493] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.411570] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.411638] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.411805] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.469616] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.469687] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.469756] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.469812] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.480508] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   17.480580] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   17.480657] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.480721] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   17.886341] syncsound version 1.3.5 05317DF0B1AD4063EC5E303
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   18.171433] syncsound: registered for 7 synchronous devices
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   18.172813] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   18.172876] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   18.173115] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   18.173181] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:49.501  2955  2955 I kernel  : <12>[   18.331286] avc:  denied  { set } for property=sys.usb.config scontext=u:r:platform_app:s0 tcontext=u:object_r:system_radio_prop:s0 tclass=property_service
+01-01 00:40:49.501  2955  2955 I kernel  : <38>[   18.349494] type=1400 audit(946687248.539:10): avc: denied { write } for pid=3051 comm="a.tjba.usbaudio" name="property_service" dev="tmpfs" ino=1434 scontext=u:r:platform_app:s0 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=1
+01-01 00:40:49.501  2955  2955 I kernel  : <38>[   18.349802] type=1400 audit(946687248.539:11): avc: denied { connectto } for pid=3051 comm="a.tjba.usbaudio" path="/dev/socket/property_service" scontext=u:r:platform_app:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:49.501  2955  2955 I kernel  : <4>[   18.619980] [DEBUG][f_ncm] eth_open
+01-01 00:40:49.501  2955  2955 I kernel  : <6>[   18.620128] IPv6: ADDRCONF(NETDEV_UP): usb0: link is not ready
+01-01 00:40:49.501  2955  2955 I kernel  : <11>[   19.186794] init: Boot Animation exit
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   19.193456] show_nor_ascii: data (NORMAL) length(32)
+01-01 00:40:49.501  2955  2955 I kernel  : <3>[   19.193468] show_ascii: data (NORMAL) length(32)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.358257] dhd_module_init in
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.358400] found wifi platform device bcmdhd_wlan
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.358997] Power-up adapter 'DHD generic adapter'
+01-01 00:40:50.582  2955  2955 I kernel  : <38>[   19.395982] type=1400 audit(946687249.609:12): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.496489] mmc1: queuing unknown CIS tuple 0x80 (2 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.499689] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.502138] mmc1: queuing unknown CIS tuple 0x80 (6 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.512258] mmc1: queuing unknown CIS tuple 0x80 (31 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.515007] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.528987] mmc1: queuing unknown CIS tuple 0x80 (25 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.537754] mmc1: queuing unknown CIS tuple 0x80 (25 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.567957] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.568028] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:50.582  2955  2955 I kernel  : <3>[   19.568090] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   19.568152] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.667657] mmc1: queuing unknown CIS tuple 0x80 (2 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.670374] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.672800] mmc1: queuing unknown CIS tuple 0x80 (6 bytes)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.739273] bcmsdh_sdmmc: bcmsdh_sdmmc_probe Enter
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.739731] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.739794] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:50.582  2955  2955 I kernel  : <3>[   19.739858] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   19.739904] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.739994] bcmsdh_sdmmc: bcmsdh_sdmmc_probe Enter
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.740001] bus num (host idx)=1, slot num (rca)=1
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.740008] found adapter info 'DHD generic adapter'
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.750137] F1 signature OK, socitype:0x1 chip:0x4339 rev:0x1 pkg:0x2
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.751091] DHD: dongle ram size is set to 786432(orig 786432) at 0x180000
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.751203] wifi_platform_get_mac_addr
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   19.751393] CFG80211-ERROR) wl_setup_wiphy : Registering Vendor80211)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.782624] wl_create_event_handler(): thread:wl_event_handler:d71 started
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   19.783207] CFG80211-ERROR) wl_event_handler : tsk Enter, tsk = 0xd7ba141c
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.784102] dhd_attach(): thread:dhd_watchdog_thread:d73 started
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.784161] dhd_attach(): thread:dhd_dpc:d74 started
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.784178] dhd_deferred_work_init: work queue initialized 
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.897456] sdioh_request_buffer: [1] doing memory copy buf=d9d50000, len=1954
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   19.903998] dhdsdio_write_vars: Download, Upload and compare of NVRAM succeeded.
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.150462] dhd_bus_init: enable 0x06, ready 0x06 (waited 0us)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.152290] wifi_platform_get_mac_addr
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.163391] Firmware up: op_mode=0x0005, MAC=d8:c4:6a:27:cd:88
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.168908] dhd_preinit_ioctls set rxcb=0x1
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.183284] Firmware version = wl0: Jun 15 2017 15:09:57 version 6.37.39.71 (r665475 CY)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.184048] dhd_wlfc_init(): successfully enabled bdcv2 tlv signaling, 79
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.184477] dhd_wlfc_init(): wlfc_mode=0x0, ret=-23
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.184918] Dongle Host Driver, version 1.141.94 (r)
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.184918] Compiled in drivers/net/wireless/bcmdhd on Jul 21 2017 at 09:24:22
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.212421] Register interface [wlan0]  MAC: d8:c4:6a:27:cd:88
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.212421] 
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.213880] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.213949] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:50.582  2955  2955 I kernel  : <3>[   20.214008] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   20.214054] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.219189] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:50.582  2955  2955 I kernel  : <4>[   20.219261] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:50.582  2955  2955 I kernel  : <3>[   20.219326] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:50.582  2955  2955 I kernel  : <6>[   20.219383] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:50.721  2955  2955 I kernel  : <4>[   20.500174] dhd_prot_ioctl : bus is down. we have nothing to do
+01-01 00:40:50.721  2955  2955 I kernel  : <4>[   20.500190] dhd_wlfc_deinit():3271, ampdu_hostreorder get failed Err = -1
+01-01 00:40:50.721  2955  2955 I kernel  : <4>[   20.500198] dhd_prot_ioctl : bus is down. we have nothing to do
+01-01 00:40:50.721  2955  2955 I kernel  : <4>[   20.500208] dhd_wlfc_deinit():3294 failed to enable/disable bdcv2 tlv signaling Err = -1
+01-01 00:40:51.101  2955  2955 I kernel  : <4>[   20.871500] dhd_detach(): thread:dhd_watchdog_thread:d73 terminated OK
+01-01 00:40:51.101  2955  2955 I kernel  : <4>[   20.871520] dhd_dpc_thread: Unexpected up_cnt 0
+01-01 00:40:51.101  2955  2955 I kernel  : <4>[   20.871557] dhd_detach(): thread:dhd_dpc:d74 terminated OK
+01-01 00:40:51.101  2955  2955 I kernel  : <6>[   20.878750] CFG80211-ERROR) wl_event_handler : was terminated
+01-01 00:40:51.101  2955  2955 I kernel  : <4>[   20.878804] wl_destroy_event_handler(): thread:wl_event_handler:d71 terminated OK
+01-01 00:40:51.251  2955  2955 I kernel  : <4>[   21.028704] unregister wifi platform drivers
+01-01 00:40:51.261  2955  2955 I kernel  : <12>[   21.036121] avc:  granted  { set } for property=wlan.driver.status scontext=u:r:netd:s0 tcontext=u:object_r:system_prop:s0 tclass=property_service
+01-01 00:40:51.801  2955  2955 I kernel  : <6>[   21.577891] omap-iommu 55082000.mmu: 55082000.mmu: version 2.1
+01-01 00:40:51.811  2955  2955 I kernel  : <4>[   21.581374] dhd_module_init in
+01-01 00:40:51.811  2955  2955 I kernel  : <4>[   21.581492] found wifi platform device bcmdhd_wlan
+01-01 00:40:51.811  2955  2955 I kernel  : <4>[   21.581997] Power-up adapter 'DHD generic adapter'
+01-01 00:40:52.051  2955  2955 I kernel  : <4>[   21.826905] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:52.051  2955  2955 I kernel  : <4>[   21.826976] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:52.051  2955  2955 I kernel  : <3>[   21.827064] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:52.051  2955  2955 I kernel  : <6>[   21.827118] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:52.051  2955  2955 I kernel  : <4>[   21.827962] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:52.051  2955  2955 I kernel  : <4>[   21.828037] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:52.051  2955  2955 I kernel  : <3>[   21.828087] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:52.051  2955  2955 I kernel  : <6>[   21.828132] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.986640] bcmsdh_sdmmc: bcmsdh_sdmmc_probe Enter
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.987297] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.987359] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:52.211  2955  2955 I kernel  : <3>[   21.987424] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:52.211  2955  2955 I kernel  : <6>[   21.987475] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.987575] bcmsdh_sdmmc: bcmsdh_sdmmc_probe Enter
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.987582] bus num (host idx)=1, slot num (rca)=1
+01-01 00:40:52.211  2955  2955 I kernel  : <4>[   21.987591] found adapter info 'DHD generic adapter'
+01-01 00:40:52.291  2955  2955 I kernel  : <4>[   22.065775] F1 signature OK, socitype:0x1 chip:0x4339 rev:0x1 pkg:0x2
+01-01 00:40:52.301  2955  2955 I kernel  : <4>[   22.071664] DHD: dongle ram size is set to 786432(orig 786432) at 0x180000
+01-01 00:40:52.301  2955  2955 I kernel  : <4>[   22.071775] wifi_platform_get_mac_addr
+01-01 00:40:52.301  2955  2955 I kernel  : <6>[   22.071913] CFG80211-ERROR) wl_setup_wiphy : Registering Vendor80211)
+01-01 00:40:52.341  2955  2955 I kernel  : <4>[   22.117812] wl_create_event_handler(): thread:wl_event_handler:ede started
+01-01 00:40:52.341  2955  2955 I kernel  : <6>[   22.119936] CFG80211-ERROR) wl_event_handler : tsk Enter, tsk = 0xca9a141c
+01-01 00:40:52.381  2955  2955 I kernel  : <4>[   22.159615] dhd_attach(): thread:dhd_watchdog_thread:ee3 started
+01-01 00:40:52.391  2955  2955 I kernel  : <4>[   22.163160] dhd_attach(): thread:dhd_dpc:ee5 started
+01-01 00:40:52.391  2955  2955 I kernel  : <4>[   22.163184] dhd_deferred_work_init: work queue initialized 
+01-01 00:40:52.551  2955  2955 I kernel  : <4>[   22.330511] sdioh_request_buffer: [1] doing memory copy buf=d0c63000, len=1954
+01-01 00:40:52.561  2955  2955 I kernel  : <4>[   22.333040] dhdsdio_write_vars: Download, Upload and compare of NVRAM succeeded.
+01-01 00:40:52.802  2955  2955 I kernel  : <4>[   22.580198] dhd_bus_init: enable 0x06, ready 0x06 (waited 0us)
+01-01 00:40:52.811  2955  2955 I kernel  : <4>[   22.588153] wifi_platform_get_mac_addr
+01-01 00:40:52.821  2955  2955 I kernel  : <4>[   22.597631] Firmware up: op_mode=0x0002, MAC=d8:c4:6a:27:cd:88
+01-01 00:40:52.831  2955  2955 I kernel  : <4>[   22.606253] dhd_preinit_ioctls set rxcb=0x1
+01-01 00:40:52.841  2955  2955 I kernel  : <4>[   22.618209] Firmware version = wl0: Jun 15 2017 15:09:57 version 6.37.39.71 (r665475 CY)
+01-01 00:40:52.841  2955  2955 I kernel  : <4>[   22.619625] dhd_wlfc_init(): successfully enabled bdcv2 tlv signaling, 79
+01-01 00:40:52.841  2955  2955 I kernel  : <4>[   22.620136] dhd_wlfc_init(): wlfc_mode=0x0, ret=-23
+01-01 00:40:52.841  2955  2955 I kernel  : <4>[   22.620680] Dongle Host Driver, version 1.141.94 (r)
+01-01 00:40:52.841  2955  2955 I kernel  : <4>[   22.620680] Compiled in drivers/net/wireless/bcmdhd on Jul 21 2017 at 09:24:22
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.625859] Register interface [wlan0]  MAC: d8:c4:6a:27:cd:88
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.625859] 
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.626697] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.626761] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:52.854  2955  2955 I kernel  : <3>[   22.626817] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:52.854  2955  2955 I kernel  : <6>[   22.626867] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.628373] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+01-01 00:40:52.854  2955  2955 I kernel  : <4>[   22.628436] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+01-01 00:40:52.854  2955  2955 I kernel  : <3>[   22.628485] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+01-01 00:40:52.854  2955  2955 I kernel  : <6>[   22.628528] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+01-01 00:40:52.854  2955  2955 I kernel  : <12>[   22.629170] avc:  granted  { set } for property=wlan.driver.status scontext=u:r:netd:s0 tcontext=u:object_r:system_prop:s0 tclass=property_service
+01-01 00:40:53.811  2955  2955 I kernel  : <6>[   23.583581] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : ff:ff:ff:ff:ff:ff scb_val.val 3
+01-01 00:40:53.831  2955  2955 I kernel  : <6>[   23.607571] CFG80211-ERROR) wl_cfg80211_set_channel : netdev_ifidx(6), chan_type(1) target channel(6) 
+01-01 00:40:53.841  2955  2955 I kernel  : <38>[   23.613460] type=1400 audit(946687253.819:13): avc: denied { write } for pid=2374 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+01-01 00:40:53.841  2955  2955 I kernel  : <6>[   23.613910] CFG80211-ERROR) wl_cfg80211_parse_ies : No WPSIE in beacon 
+01-01 00:40:53.841  2955  2955 I kernel  : <6>[   23.613924] CFG80211-ERROR) wl_cfg80211_parse_ies : No WPSIE in beacon 
+01-01 00:40:53.911  2955  2955 I kernel  : <4>[   23.685252] _dhd_wlfc_FIFOcreditmap_update: credit[i] is not returned, (7 6)
+01-01 00:40:53.911  2955  2955 I kernel  : <4>[   23.685412] _dhd_wlfc_mac_entry_update():1649, entry(32)
+01-01 00:40:56.361  2955  2955 I kernel  : <3>[   26.134824] omapdrm omapdrm.0: already a pending flip
+01-01 00:40:56.501  2955  2955 I kernel  : <3>[   26.273481] omapdrm omapdrm.0: already a pending flip
+01-01 00:40:56.631  2955  2955 I kernel  : <38>[   26.404230] type=1400 audit(946687256.619:14): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+01-01 00:40:56.731  2955  2955 I kernel  : <3>[   26.505784] omapdrm omapdrm.0: already a pending flip
+01-01 00:40:59.271  2955  2955 I kernel  : <3>[   29.045847] omapdrm omapdrm.0: already a pending flip
+04-01 00:41:00.797  2955  2955 I kernel  : <38>[   30.576876] type=1400 audit(954549660.782:15): avc: denied { call } for pid=4066 comm="nostics.service" scontext=u:r:system_app:s0 tcontext=u:r:init:s0 tclass=binder permissive=1
+04-01 00:41:00.807  2955  2955 I kernel  : <38>[   30.582938] type=1400 audit(954549660.782:16): avc: denied { transfer } for pid=4066 comm="nostics.service" scontext=u:r:system_app:s0 tcontext=u:r:init:s0 tclass=binder permissive=1
+04-01 00:41:00.907  2955  2955 I kernel  : <6>[   30.686808] binder: 1835:1835 BC_REQUEST_DEATH_NOTIFICATION death notification already set
+07-26 00:41:08.635  2955  2955 I kernel  : <3>[   38.450641] show_nor_ascii: data (58000240) length(32)
+07-26 00:41:08.635  2955  2955 I kernel  : <3>[   38.450657] show_ascii: data (58000240) length(32)
+07-26 00:41:08.646  2955  2955 I kernel  : <3>[   38.453057] show_nor_ascii: data (39540-TJBA-A110) length(32)
+07-26 00:41:08.646  2955  2955 I kernel  : <3>[   38.453068] show_ascii: data (39540-TJBA-A110) length(32)
+07-26 04:41:16.940  2955  2955 I kernel  : <3>[   46.766527] show_nor_ascii: data (58000240) length(32)
+07-26 04:41:16.940  2955  2955 I kernel  : <3>[   46.766539] show_ascii: data (58000240) length(32)
+07-26 03:41:16.959  2955  2955 I kernel  : <3>[   46.790827] show_nor_ascii: data (58000240) length(32)
+07-26 03:41:16.959  2955  2955 I kernel  : <3>[   46.790843] show_ascii: data (58000240) length(32)
+07-26 14:59:45.710  2955  2955 I kernel  : <3>[   75.561180] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:06.200  2955  2955 I kernel  : <3>[   96.055073] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:19.520  2955  2955 I kernel  : <11>[  109.374263] init: untracked pid 4861 killed by signal 9
+07-26 15:00:19.780  2955  2955 I kernel  : <38>[  109.640175] type=1400 audit(1501081219.761:17): avc: denied { write } for pid=2374 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+07-26 15:00:20.270  2955  2955 I kernel  : <3>[  110.122800] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:22.040  2955  2955 I kernel  : <3>[  111.894179] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:22.121  2955  2955 I kernel  : <6>[  111.974081] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:22.121  2955  2955 I kernel  : <6>[  111.975025] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:00:22.121  2955  2955 I kernel  : <6>[  111.976741] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:22.130  2955  2955 I kernel  : <6>[  111.987187] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:22.960  2955  2955 I kernel  : <3>[  112.819175] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:23.020  2955  2955 I kernel  : <3>[  112.880244] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:23.770  2955  2955 I kernel  : <11>[  113.625550] init: untracked pid 4911 killed by signal 9
+07-26 15:00:24.580  2955  2955 I kernel  : <38>[  114.432939] type=1400 audit(1501081224.561:18): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:00:28.520  2955  2955 I kernel  : <6>[  118.380829] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:28.530  2955  2955 I kernel  : <6>[  118.381758] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:00:28.530  2955  2955 I kernel  : <6>[  118.383722] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:28.530  2955  2955 I kernel  : <6>[  118.389018] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:34.970  2955  2955 I kernel  : <6>[  124.829142] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:34.970  2955  2955 I kernel  : <6>[  124.830418] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:00:34.980  2955  2955 I kernel  : <6>[  124.832149] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:34.980  2955  2955 I kernel  : <6>[  124.835452] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:00:35.280  2955  2955 I kernel  : <3>[  125.131740] omapdrm omapdrm.0: already a pending flip
+07-26 15:00:35.310  2955  2955 I kernel  : <3>[  125.169162] omapdrm omapdrm.0: already a pending flip
+07-26 15:01:49.542  2955  2955 I kernel  : <3>[  199.396722] omapdrm omapdrm.0: already a pending flip
+07-26 15:01:52.511  2955  2955 I kernel  : <3>[  202.361895] omapdrm omapdrm.0: already a pending flip
+07-26 15:02:09.530  2955  2955 I kernel  : <3>[  219.387825] omapdrm omapdrm.0: already a pending flip
+07-26 15:06:22.430  2955  2955 I kernel  : <6>[  472.286300] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:22.440  2955  2955 I kernel  : <6>[  472.291738] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:22.440  2955  2955 I kernel  : <6>[  472.293188] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:06:22.440  2955  2955 I kernel  : <6>[  472.297016] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:22.450  2955  2955 I kernel  : <6>[  472.309707] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:06:28.880  2955  2955 I kernel  : <6>[  478.739848] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:28.891  2955  2955 I kernel  : <6>[  478.742470] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:28.900  2955  2955 I kernel  : <6>[  478.755807] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:06:28.900  2955  2955 I kernel  : <6>[  478.756453] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:06:28.900  2955  2955 I kernel  : <6>[  478.759524] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:35.330  2955  2955 I kernel  : <6>[  485.181167] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:35.330  2955  2955 I kernel  : <6>[  485.182223] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:06:35.330  2955  2955 I kernel  : <6>[  485.183553] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:06:35.330  2955  2955 I kernel  : <6>[  485.186681] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:22.750  2955  2955 I kernel  : <6>[  832.610316] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:22.760  2955  2955 I kernel  : <6>[  832.613832] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:22.760  2955  2955 I kernel  : <6>[  832.614144] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:12:22.760  2955  2955 I kernel  : <6>[  832.617855] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:29.270  2955  2955 I kernel  : <6>[  839.127281] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:29.270  2955  2955 I kernel  : <6>[  839.129641] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:29.270  2955  2955 I kernel  : <6>[  839.130848] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:12:29.280  2955  2955 I kernel  : <6>[  839.131662] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:12:29.280  2955  2955 I kernel  : <6>[  839.134835] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:35.650  2955  2955 I kernel  : <6>[  845.504587] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:35.650  2955  2955 I kernel  : <6>[  845.505462] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:12:35.650  2955  2955 I kernel  : <6>[  845.507435] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:12:35.650  2955  2955 I kernel  : <6>[  845.510869] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:19.260  2955  2955 I kernel  : <6>[ 1189.111080] usb 3-1: new high-speed USB device number 2 using xhci-hcd
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.253251] usb 3-1: New USB device found, idVendor=18d1, idProduct=4ee7
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.253266] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.253276] usb 3-1: Product: Nexus 6P
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.253286] usb 3-1: Manufacturer: Huawei
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.253295] usb 3-1: SerialNumber: CVH7N16612000359
+07-26 15:18:19.401  2955  2955 I kernel  : <4>[ 1189.258235] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:18:19.401  2955  2955 I kernel  : <4>[ 1189.258307] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:18:19.401  2955  2955 I kernel  : <3>[ 1189.258389] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:18:19.401  2955  2955 I kernel  : <6>[ 1189.258454] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:18:19.450  2955  2955 I kernel  : <4>[ 1189.302066] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:18:19.450  2955  2955 I kernel  : <4>[ 1189.302164] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:18:19.450  2955  2955 I kernel  : <3>[ 1189.302237] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:18:19.450  2955  2955 I kernel  : <6>[ 1189.302310] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:18:19.460  2955  2955 I kernel  : <6>[ 1189.315821] usb 3-1: USB disconnect, device number 2
+07-26 15:18:19.500  2955  2955 I kernel  : <38>[ 1189.355384] type=1400 audit(1501082299.474:19): avc: denied { write } for pid=3051 comm="a.tjba.usbaudio" name="property_service" dev="tmpfs" ino=1434 scontext=u:r:platform_app:s0 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=1
+07-26 15:18:19.520  2955  2955 I kernel  : <38>[ 1189.372336] type=1400 audit(1501082299.474:20): avc: denied { connectto } for pid=3051 comm="a.tjba.usbaudio" path="/dev/socket/property_service" scontext=u:r:platform_app:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:18:19.820  2955  2955 I kernel  : <6>[ 1189.671123] usb 3-1: new high-speed USB device number 3 using xhci-hcd
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.813114] usb 3-1: New USB device found, idVendor=18d1, idProduct=2d01
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.813130] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.813140] usb 3-1: Product: Nexus 6P
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.813148] usb 3-1: Manufacturer: Huawei
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.813157] usb 3-1: SerialNumber: CVH7N16612000359
+07-26 15:18:19.960  2955  2955 I kernel  : <4>[ 1189.818601] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:18:19.960  2955  2955 I kernel  : <4>[ 1189.818670] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:18:19.960  2955  2955 I kernel  : <3>[ 1189.818731] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:18:19.960  2955  2955 I kernel  : <6>[ 1189.818797] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:18:20.290  2955  2955 I kernel  : <4>[ 1190.148705] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:18:20.290  2955  2955 I kernel  : <4>[ 1190.148775] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:18:20.290  2955  2955 I kernel  : <3>[ 1190.148846] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:18:20.290  2955  2955 I kernel  : <6>[ 1190.148901] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:18:23.160  2955  2955 I kernel  : <6>[ 1193.014086] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:23.160  2955  2955 I kernel  : <6>[ 1193.014958] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:18:23.160  2955  2955 I kernel  : <6>[ 1193.017408] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:23.160  2955  2955 I kernel  : <6>[ 1193.020824] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:29.520  2955  2955 I kernel  : <6>[ 1199.371488] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:29.520  2955  2955 I kernel  : <6>[ 1199.372338] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:18:29.520  2955  2955 I kernel  : <6>[ 1199.374053] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:29.520  2955  2955 I kernel  : <6>[ 1199.377781] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:34.220  2955  2955 I kernel  : <6>[ 1204.073006] omap-iommu 55082000.mmu: 55082000.mmu: version 2.1
+07-26 15:18:35.990  2955  2955 I kernel  : <6>[ 1205.846512] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:18:35.990  2955  2955 I kernel  : <6>[ 1205.846602] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:35.990  2955  2955 I kernel  : <6>[ 1205.849914] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:18:36.000  2955  2955 I kernel  : <6>[ 1205.854195] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:19:12.165  2955  2955 I kernel  : <4>[ 1242.025668] omap_hwmod: mmu_ipu2: _wait_target_disable failed
+07-26 15:19:14.610  2955  2955 I kernel  : <6>[ 1244.469152] omap-iommu 55082000.mmu: 55082000.mmu: version 2.1
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603556] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0804a 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603587] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0804c 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603612] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0804e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603634] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603658] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603679] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603699] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603722] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:18.750  2955  2955 I kernel  : <6>[ 1248.603744] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20c0004e 00000000 c04043fe
+07-26 15:19:32.240  2955  2955 I kernel  : <6>[ 1262.091829] usb 3-1: USB disconnect, device number 3
+07-26 15:19:34.530  2955  2955 I kernel  : <6>[ 1264.381108] usb 3-1: new high-speed USB device number 4 using xhci-hcd
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.522141] usb 3-1: New USB device found, idVendor=18d1, idProduct=4ee7
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.522157] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.522168] usb 3-1: Product: Nexus 6P
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.522177] usb 3-1: Manufacturer: Huawei
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.522186] usb 3-1: SerialNumber: CVH7N16612000359
+07-26 15:19:34.671  2955  2955 I kernel  : <4>[ 1264.525128] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:19:34.671  2955  2955 I kernel  : <4>[ 1264.525199] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:19:34.671  2955  2955 I kernel  : <3>[ 1264.525279] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:19:34.671  2955  2955 I kernel  : <6>[ 1264.525327] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:19:34.710  2955  2955 I kernel  : <4>[ 1264.565249] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:19:34.710  2955  2955 I kernel  : <4>[ 1264.565326] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:19:34.710  2955  2955 I kernel  : <3>[ 1264.565411] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:19:34.710  2955  2955 I kernel  : <6>[ 1264.565481] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:19:34.720  2955  2955 I kernel  : <6>[ 1264.576202] usb 3-1: USB disconnect, device number 4
+07-26 15:19:35.080  2955  2955 I kernel  : <6>[ 1264.931080] usb 3-1: new high-speed USB device number 5 using xhci-hcd
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.073574] usb 3-1: New USB device found, idVendor=18d1, idProduct=2d01
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.073590] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.073600] usb 3-1: Product: Nexus 6P
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.073609] usb 3-1: Manufacturer: Huawei
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.073618] usb 3-1: SerialNumber: CVH7N16612000359
+07-26 15:19:35.222  2955  2955 I kernel  : <4>[ 1265.077681] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:19:35.222  2955  2955 I kernel  : <4>[ 1265.077753] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:19:35.222  2955  2955 I kernel  : <3>[ 1265.077818] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:19:35.222  2955  2955 I kernel  : <6>[ 1265.077867] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:19:35.340  2955  2955 I kernel  : <4>[ 1265.200361] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb074 ret = -22
+07-26 15:19:35.340  2955  2955 I kernel  : <4>[ 1265.200439] asoc_simple_card_sub_parse_of: codec-name: np = dc7bb12c ret = 0
+07-26 15:19:35.340  2955  2955 I kernel  : <3>[ 1265.200511] asoc-simple-card adv7611_hdmi_card: ASoC: CODEC adv7611-asoc-codec not registered
+07-26 15:19:35.340  2955  2955 I kernel  : <6>[ 1265.200568] platform adv7611_hdmi_card: Driver asoc-simple-card requests probe deferral
+07-26 15:19:40.144  2955  2955 I kernel  : <4>[ 1270.005163] omap_hwmod: mmu_ipu2: _wait_target_disable failed
+07-26 15:19:40.760  2955  2955 I kernel  : <6>[ 1270.618903] omap-iommu 55082000.mmu: 55082000.mmu: version 2.1
+07-26 15:21:49.891  2955  2955 I kernel  : <3>[ 1399.748221] omapdrm omapdrm.0: already a pending flip
+07-26 15:22:05.160  2955  2955 I kernel  : <38>[ 1415.019346] type=1400 audit(1501082525.062:21): avc: denied { write } for pid=3016 comm="Binder_1" name="/" dev="tmpfs" ino=1427 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045034] type=1400 audit(1501082525.062:22): avc: denied { add_name } for pid=3016 comm="Binder_1" name="most_log.gz" scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045186] type=1400 audit(1501082525.062:23): avc: denied { create } for pid=3016 comm="Binder_1" name="most_log.gz" scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045304] type=1400 audit(1501082525.062:24): avc: denied { open } for pid=3016 comm="Binder_1" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045416] type=1400 audit(1501082525.102:25): avc: denied { setattr } for pid=3016 comm="Binder_1" name="most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045526] type=1400 audit(1501082525.112:26): avc: denied { read } for pid=4274 comm="s.LogController" name="most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.045972] type=1400 audit(1501082525.112:27): avc: denied { open } for pid=4274 comm="s.LogController" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.046090] type=1400 audit(1501082525.112:28): avc: denied { getattr } for pid=4274 comm="s.LogController" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.046224] type=1400 audit(1501082525.122:29): avc: denied { getattr } for pid=2961 comm="ringsniffer" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.046381] type=1400 audit(1501082525.122:30): avc: denied { remove_name } for pid=2961 comm="ringsniffer" name="most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:22:05.190  2955  2955 I kernel  : <38>[ 1415.046492] type=1400 audit(1501082525.122:31): avc: denied { unlink } for pid=2961 comm="ringsniffer" name="most_log.gz" dev="tmpfs" ino=48734 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:22:11.520  2955  2955 I kernel  : <4>[ 1421.374184] dumpstate (9172): /proc/9172/oom_adj is deprecated, please use /proc/9172/oom_score_adj instead.
+07-26 15:22:12.220  2955  2955 I kernel  : <38>[ 1422.073273] type=1400 audit(1501082532.202:32): avc: denied { write } for pid=2374 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+07-26 15:22:13.510  2955  2955 I kernel  : <3>[ 1423.366883] omapdrm omapdrm.0: already a pending flip
+07-26 15:22:14.010  2955  2955 I kernel  : <38>[ 1423.863218] type=1400 audit(1501082533.992:33): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:22:30.420  2955  2955 I kernel  : <4>[ 1440.272481] Bits 55-60 of /proc/PID/pagemap entries are about to stop being page-shift some time soon. See the linux/Documentation/vm/pagemap.txt for details.
+07-26 15:22:40.230  2955  2955 I kernel  : <38>[ 1450.089686] type=1400 audit(1501082560.212:34): avc: denied { write } for pid=2374 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+07-26 15:22:52.050  2955  2955 I kernel  : <4>[ 1461.903338] R(sync0): no free DMA buffers, dropping dd8b4f00 from file queue
+07-26 15:22:52.050  2955  2955 I kernel  : <4>[ 1461.906007] R(sync0): no free DMA buffers, dropping dd8b5000 from file queue
+07-26 15:22:52.050  2955  2955 I kernel  : <4>[ 1461.908669] R(sync0): no free DMA buffers, dropping dd8b4700 from file queue
+07-26 15:22:52.120  2955  2955 I kernel  : <38>[ 1461.979867] type=1400 audit(1501082572.102:35): avc: denied { connectto } for pid=2387 comm="dr_hal_service" path="/dev/socket/dr_recording_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:22:56.490  2955  2955 I kernel  : <3>[ 1466.344580] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:01.120  2955  2955 I kernel  : <3>[ 1470.978291] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:20.530  2955  2955 I kernel  : <3>[ 1490.382250] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:20.890  2955  2955 I kernel  : <38>[ 1490.748672] type=1400 audit(1501082600.872:36): avc: denied { call } for pid=9565 comm="dumpsys" scontext=u:r:dumpstate:s0 tcontext=u:r:init:s0 tclass=binder permissive=1
+07-26 15:23:22.086  2955  2955 I kernel  : <3>[ 1491.938165] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:22.100  2955  2955 I kernel  : <4>[ 1491.956936] drop_rx: 707 callbacks suppressed
+07-26 15:23:22.100  2955  2955 I kernel  : <4>[ 1491.956951] R(sync0): no free DMA buffers, dropping dd8b5000 from file queue
+07-26 15:23:22.100  2955  2955 I kernel  : <4>[ 1491.959596] R(sync0): no free DMA buffers, dropping dd8b4800 from file queue
+07-26 15:23:22.110  2955  2955 I kernel  : <4>[ 1491.962263] R(sync0): no free DMA buffers, dropping dd8b4a00 from file queue
+07-26 15:23:22.540  2955  2955 I kernel  : <3>[ 1492.395419] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:28.610  2955  2955 I kernel  : <3>[ 1498.467163] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:31.010  2955  2955 I kernel  : <3>[ 1500.868505] omapdrm omapdrm.0: already a pending flip
+07-26 15:23:31.531  2955  2955 I kernel  : <38>[ 1501.387365] type=1400 audit(1501082611.512:37): avc: denied { write } for pid=2376 comm="Binder_1" name="dr_playback_commands" dev="tmpfs" ino=5078 scontext=u:r:system_server:s0 tcontext=u:object_r:socket_device:s0 tclass=sock_file permissive=1
+07-26 15:23:47.410  2955  2955 I kernel  : <6>[ 1517.267257] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:23:47.410  2955  2955 I kernel  : <6>[ 1517.267320] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:23:47.420  2955  2955 I kernel  : <6>[ 1517.272215] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:23:47.430  2955  2955 I kernel  : <6>[ 1517.282256] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:02.450  2955  2955 I kernel  : <6>[ 1532.306120] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:02.450  2955  2955 I kernel  : <6>[ 1532.306961] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:24:02.450  2955  2955 I kernel  : <6>[ 1532.309074] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:02.460  2955  2955 I kernel  : <6>[ 1532.314642] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:14.070  2955  2955 I kernel  : <6>[ 1543.925245] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:14.070  2955  2955 I kernel  : <6>[ 1543.927956] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:24:14.070  2955  2955 I kernel  : <6>[ 1543.927996] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:14.070  2955  2955 I kernel  : <6>[ 1543.928621] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:24:14.080  2955  2955 I kernel  : <6>[ 1543.932242] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:24:39.090  2955  2955 I kernel  : <38>[ 1568.941574] type=1400 audit(1501082679.061:38): avc: denied { connectto } for pid=1917 comm="gps_receiver_ma" path="/dev/socket/dr_playback_commands" scontext=u:r:gpsd:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:24:39.260  2955  2955 I kernel  : <3>[ 1569.114323] show_nor_ascii: data (39540-TJBA-A110) length(32)
+07-26 15:24:39.260  2955  2955 I kernel  : <3>[ 1569.114338] show_ascii: data (39540-TJBA-A110) length(32)
+07-26 15:24:47.140  2955  2955 I kernel  : <3>[ 1576.999510] omapdrm omapdrm.0: already a pending flip
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819248] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20008044 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819281] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20008046 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819301] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20000046 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819319] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20000046 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819350] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20008048 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819365] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20000048 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819379] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 20000048 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819400] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 2000804a 00000000 004043fe
+07-26 15:24:53.960  2955  2955 I kernel  : <6>[ 1583.819421] mlb150: RX_CH: 7, CDT[127:0] 0cc000ff 2000804c 00000000 004043fe
+07-26 15:24:54.180  2955  2955 I kernel  : <38>[ 1584.033975] type=1400 audit(1501082694.151:39): avc: denied { write } for pid=3051 comm="a.tjba.usbaudio" name="property_service" dev="tmpfs" ino=1434 scontext=u:r:platform_app:s0 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=1
+07-26 15:24:54.240  2955  2955 I kernel  : <38>[ 1584.094707] type=1400 audit(1501082694.151:40): avc: denied { connectto } for pid=3051 comm="a.tjba.usbaudio" path="/dev/socket/property_service" scontext=u:r:platform_app:s0 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+07-26 15:25:31.801  2955  2955 I kernel  : <3>[ 1621.654786] omapdrm omapdrm.0: already a pending flip
+07-26 15:26:07.230  2955  2955 I kernel  : <3>[ 1657.090430] omapdrm omapdrm.0: already a pending flip
+07-26 15:26:35.720  2955  2955 I kernel  : <36>[ 1685.574914] type=1400 audit(1501082795.701:41): avc: granted { write } for pid=3162 comm="Binder_3" name="presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:26:35.730  2955  2955 I kernel  : <36>[ 1685.582731] type=1400 audit(1501082795.701:42): avc: granted { write } for pid=3162 comm="Binder_3" path="/data/system/persistence/presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:26:35.730  2955  2955 I kernel  : <36>[ 1685.582953] type=1400 audit(1501082795.701:43): avc: granted { write } for pid=3162 comm="Binder_3" name="presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:26:45.600  2955  2955 I kernel  : <3>[ 1695.458259] omapdrm omapdrm.0: already a pending flip
+07-26 15:26:46.480  2955  2955 I kernel  : <36>[ 1696.338277] type=1400 audit(1501082806.461:44): avc: granted { write } for pid=2633 comm="Binder_2" name="presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:26:46.500  2955  2955 I kernel  : <36>[ 1696.358015] type=1400 audit(1501082806.461:45): avc: granted { write } for pid=2633 comm="Binder_2" path="/data/system/persistence/presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:26:46.500  2955  2955 I kernel  : <36>[ 1696.358170] type=1400 audit(1501082806.461:46): avc: granted { write } for pid=2633 comm="Binder_2" name="presetFMttuner.pref" dev="mmcblk0p20" ino=421982 scontext=u:r:system_app:s0 tcontext=u:object_r:system_data_file:s0 tclass=file
+07-26 15:27:46.930  2955  2955 I kernel  : <3>[ 1756.787442] omapdrm omapdrm.0: already a pending flip
+07-26 15:27:48.770  2955  2955 I kernel  : <6>[ 1758.629309] usb 3-1: USB disconnect, device number 5
+07-26 15:28:18.490  2955  2955 I kernel  : <3>[ 1788.348317] omapdrm omapdrm.0: already a pending flip
+07-26 15:28:19.000  2955  2955 I kernel  : <3>[ 1788.855437] omapdrm omapdrm.0: already a pending flip
+07-26 15:29:47.830  2955  2955 I kernel  : <6>[ 1877.684655] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:29:47.830  2955  2955 I kernel  : <6>[ 1877.685503] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:29:47.830  2955  2955 I kernel  : <6>[ 1877.687179] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:29:47.830  2955  2955 I kernel  : <6>[ 1877.690460] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:29:54.213  2955  2955 I kernel  : <6>[ 1884.073393] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:29:54.220  2955  2955 I kernel  : <6>[ 1884.074290] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:29:54.220  2955  2955 I kernel  : <6>[ 1884.077220] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:29:54.220  2955  2955 I kernel  : <6>[ 1884.080867] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:30:00.640  2955  2955 I kernel  : <6>[ 1890.497663] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:30:00.640  2955  2955 I kernel  : <6>[ 1890.498579] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:30:00.640  2955  2955 I kernel  : <6>[ 1890.500255] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:30:00.650  2955  2955 I kernel  : <6>[ 1890.504149] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:48.170  2955  2955 I kernel  : <6>[ 2238.027250] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:48.170  2955  2955 I kernel  : <6>[ 2238.028099] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:35:48.170  2955  2955 I kernel  : <6>[ 2238.029698] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:48.180  2955  2955 I kernel  : <6>[ 2238.032874] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:54.590  2955  2955 I kernel  : <6>[ 2244.446245] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:54.590  2955  2955 I kernel  : <6>[ 2244.447374] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:35:54.590  2955  2955 I kernel  : <6>[ 2244.449773] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:35:54.601  2955  2955 I kernel  : <6>[ 2244.453911] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:36:01.000  2955  2955 I kernel  : <6>[ 2250.858380] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:36:01.000  2955  2955 I kernel  : <6>[ 2250.860672] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:36:01.010  2955  2955 I kernel  : <6>[ 2250.863536] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:36:01.010  2955  2955 I kernel  : <6>[ 2250.866425] CFG80211-ERROR) wl_notify_connect_status_ap : event WLC_E_DEAUTH(5) status 0 reason 3
+07-26 15:36:01.010  2955  2955 I kernel  : <6>[ 2250.867804] CFG80211-ERROR) wl_cfg80211_del_station : Disconnect STA : 94:65:2d:01:4b:45 scb_val.val 3
+07-26 15:37:59.810  2955  2955 I kernel  : <3>[ 2369.663145] omapdrm omapdrm.0: already a pending flip
+07-26 15:39:09.670  2955  2955 I kernel  : <3>[ 2439.523165] omapdrm omapdrm.0: already a pending flip
+07-26 15:39:12.802  2955  2955 I kernel  : <3>[ 2442.654220] omapdrm omapdrm.0: already a pending flip
+07-26 15:39:52.730  2955  2955 I kernel  : <38>[ 2482.581076] type=1400 audit(1501083592.695:47): avc: denied { write } for pid=2961 comm="ringsniffer" name="/" dev="tmpfs" ino=1427 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:39:52.820  2955  2955 I kernel  : <38>[ 2482.679497] type=1400 audit(1501083592.695:48): avc: denied { add_name } for pid=2961 comm="ringsniffer" name="most_log.gz" scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:39:52.820  2955  2955 I kernel  : <38>[ 2482.679632] type=1400 audit(1501083592.695:49): avc: denied { create } for pid=2961 comm="ringsniffer" name="most_log.gz" scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.820  2955  2955 I kernel  : <38>[ 2482.679741] type=1400 audit(1501083592.695:50): avc: denied { open } for pid=2961 comm="ringsniffer" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.686333] type=1400 audit(1501083592.735:51): avc: denied { setattr } for pid=2961 comm="ringsniffer" name="most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.686587] type=1400 audit(1501083592.735:52): avc: denied { read } for pid=4274 comm="s.LogController" name="most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.686815] type=1400 audit(1501083592.735:53): avc: denied { open } for pid=4274 comm="s.LogController" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.689676] type=1400 audit(1501083592.735:54): avc: denied { getattr } for pid=4274 comm="s.LogController" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:system_app:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.689843] type=1400 audit(1501083592.735:55): avc: denied { getattr } for pid=3016 comm="Binder_1" path="/mnt/utilsfs/most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.689945] type=1400 audit(1501083592.735:56): avc: denied { remove_name } for pid=3016 comm="Binder_1" name="most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:tmpfs:s0 tclass=dir permissive=1
+07-26 15:39:52.830  2955  2955 I kernel  : <38>[ 2482.690053] type=1400 audit(1501083592.735:57): avc: denied { unlink } for pid=3016 comm="Binder_1" name="most_log.gz" dev="tmpfs" ino=87503 scontext=u:r:hrao_native_service:s0 tcontext=u:object_r:hrao_native_service_tmpfs:s0 tclass=file permissive=1

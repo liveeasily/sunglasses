@@ -1,0 +1,7 @@
+01-01 00:00:04.984  1851  2196 D TelephonyManager: /proc/cmdline=root=/dev/mmcblk0p2 rw console=ttyS0,115200 vmalloc=512m androidboot.console=ttyS0 init=/init rootfstype=ext4 rootwait drm.rnodes=1 snd.slots_reserved=1,1 androidboot.hardware=gen1CBD_HS androidboot.selinux=permissive androidboot.serialno=58000240 ubootver=2014.07.D.0.0.0.18,Jul 21 2017,09:19:38 
+01-01 00:00:07.783  2309  2309 D SubscriptionManager: [getPhoneId]- fail
+01-01 00:00:07.784  2309  2309 D TelephonyManager: getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.current.phone-type' defaultVal='null' prop=
+01-01 00:00:07.784  2309  2309 D TelephonyManager: getTelephonyProperty: return propVal='null' phoneId=-1 property='ro.telephony.default_network' defaultVal='null' prop=
+01-01 00:00:08.599  2309  2309 D TelephonyRegistry: listen oscl: hasNotifySubscriptionInfoChangedOccurred==false no callback
+01-01 00:00:08.676  2309  2309 D TelephonyRegistry: systemRunning register for intents
+01-01 00:00:09.280  2309  2309 D TelephonyRegistry: notifyCellLocationForSubscriber: subId=0 cellLocation=Bundle[{}]
